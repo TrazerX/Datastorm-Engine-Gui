@@ -1,0 +1,16 @@
+﻿  AppWindow.cpp
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\Matrix4x4.h(101,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\Matrix4x4.h(102,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\Matrix4x4.h(103,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\Matrix4x4.h(104,44): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(247,45): warning C4267: 'bağımsız değişken': 'size_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(253,133): warning C4267: 'bağımsız değişken': 'size_t' - 'UINT' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(458,47): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(458,32): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(468,47): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(468,32): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(476,47): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(476,32): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(484,47): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Trazer\Downloads\Engine\DatastormEngine\AppWindow.cpp(484,32): warning C4244: 'bağımsız değişken': 'const int' - 'float' dönüşümü; veri kaybı olabilir
+  DatastormEngine.vcxproj -> C:\Users\Trazer\Downloads\Engine\Debug\DatastormEngine.exe
