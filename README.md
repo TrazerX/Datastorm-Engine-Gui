@@ -17,6 +17,10 @@ Datastorm Engine is BACK with ImGui Support!!
 
 ![alt text](https://github.com/TrazerX/Datastorm-Engine/blob/main/Screenshot.gif?raw=true)
 
+## GUI Example
+
+![alt text](https://github.com/TrazerX/Datastorm-Engine-Gui/blob/main/guiScreenShot.png?raw=true)
+
 ## Contact
 
 You can contact me from discord: vertexbuffer
